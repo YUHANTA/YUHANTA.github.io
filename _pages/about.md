@@ -12,7 +12,7 @@ redirect_from:
 
 你可以在这里看到我最新的简历：[喻涵诗洋_简历cv](../assets/喻涵诗洋_简历cv.pdf).
 
-[邮箱](mailto:u3628925@connect.hku.hk)/[Wechat](../image/wechat.jpg)/[小红书](https://www.xiaohongshu.com/user/profile/612c6a940000000001007c85)/[github](github.com/YUHANTA)
+[邮箱](mailto:u3628925@connect.hku.hk)/[微信](../image/wechat.jpg)/[小红书](https://www.xiaohongshu.com/user/profile/612c6a940000000001007c85)/[github](github.com/YUHANTA)
 
 A data-driven personal website
 ======
