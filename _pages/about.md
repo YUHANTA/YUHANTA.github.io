@@ -7,39 +7,50 @@ redirect_from:
   - /about/
   - /about.html
 ---
-我是一名本科学生，来自于[香港大学](https://www.hku.hk/)[商学院](https://www.hkubs.hku.hk/sc/)[市场分析与科技专业](https://ug.hkubs.hku.hk/programme/bsc-mat)BSc（MAT）并双主修[计算机科学](https://www.cs.hku.hk/)。
-
-我主要修习的课程有公司金融（corporate finance），市场分析，计算机编程（python，c++）。
+我是一名本科学生，来自于[香港大学](https://www.hku.hk/)[商学院](https://www.hkubs.hku.hk/sc/)[市场分析与科技专业](https://ug.hkubs.hku.hk/programme/bsc-mat)BSc（MAT）双主修[计算机科学](https://www.cs.hku.hk/)。我主要修习的课程有公司金融（corporate finance），市场分析，计算机编程（python，c++）。
 
 我非常幸运得到了来自于[香港大学商学院](https://www.hkubs.hku.hk/sc/)行为与研究科学研究所所长[Prof.Echo Wen WAN](https://www.hkubs.hku.hk/people/echo-wen-wan/)在学术上的指导。
 
-你可以在这里看到我最新的简历：[喻涵诗洋_简历cv](../assets/喻涵诗洋_简历cv.pdf).
+你可以在这里看到我最新的简历：[喻涵诗洋_简历cv](../assets/喻涵诗洋_简历cv.pdf).我也会不断更新我在商业分析，案例分析，建模相关领域的作品集。
 
 [邮箱](mailto:u3628925@connect.hku.hk)/[微信](../image/wechat.jpg)/[小红书](https://www.xiaohongshu.com/user/profile/612c6a940000000001007c85)/[github](github.com/YUHANTA)
 
-两度斩获国家级/特区级奖学金
-两度代表香港大学/ACCA（英国特许公认会计师公会）出访大湾区
+两度斩获国家级/特区级奖学金，两度代表香港大学/ACCA（英国特许公认会计师公会）出访大湾区
 ======
 宋庆龄致远奖学金（国家奖学金）
+
 凭借着在高考中，全省前100名，数学英语领先的学业成绩与面试表现，在国家颁发给赴港澳就读的内地学生为期4年资助力度最大，竞争最为激励的，国家宋庆龄致远奖学金评选中，被认为“极具未来潜力，对学业有着自己的极高追求，对未来有着清晰的规划”，最终成为全国40名获奖者之一。
 
 香港大学商学院 x ACCA联合大湾区代表团
+
 经过学院面试，ACCA特别面试，成为今年出访大湾区的35名成员之一，参观了广州/深圳高科技公司和领先的金融公司，还和星巴克中国高层开展了研讨会活动。收获 => 磨练商业思维，站在高科技的风口上，通过商业分析与行业调查，对风险投资，企业运营加深了理解。
 
 获得横跨金融投行/市场营销/人工智能/心理学多领域的证书
 ======
 1.金融
+
 摩根大通（J.P.Morgan）投资银行（IBD）工作模拟证书
+
 美国银行（Bank of America）投资银行（IBD）工作模拟证书
+
 耶鲁金融市场（Financial Markets）证书
+
 2.市场营销
+
 北京大学国际市场营销学证书
+
 3.人工智能
+
 阿里达摩院高级人工智能训练师证书
+
 4.心理学
+
 英属哥伦比亚大学（UBC）儿童心理学证书
+
 斯坦福大学（Stanford）疼痛心理学证书
+
 5.游戏产品
+
 电子竞技运营师（88分通过理论测试，超过高级认证标准，目前正在等候实操测试）
    
 Site-wide configuration
