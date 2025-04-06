@@ -17,21 +17,31 @@ redirect_from:
 
 [邮箱](mailto:u3628925@connect.hku.hk)/[微信](../image/wechat.jpg)/[小红书](https://www.xiaohongshu.com/user/profile/612c6a940000000001007c85)/[github](github.com/YUHANTA)
 
-A data-driven personal website
+两度斩获国家级/特区级奖学金
+两度代表香港大学/ACCA（英国特许公认会计师公会）出访大湾区
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+宋庆龄致远奖学金（国家奖学金）
+凭借着在高考中，全省前100名，数学英语领先的学业成绩与面试表现，在国家颁发给赴港澳就读的内地学生为期4年资助力度最大，竞争最为激励的，国家宋庆龄致远奖学金评选中，被认为“极具未来潜力，对学业有着自己的极高追求，对未来有着清晰的规划”，最终成为全国40名获奖者之一。
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+香港大学商学院 x ACCA联合大湾区代表团
+经过学院面试，ACCA特别面试，成为今年出访大湾区的35名成员之一，参观了广州/深圳高科技公司和领先的金融公司，还和星巴克中国高层开展了研讨会活动。收获 => 磨练商业思维，站在高科技的风口上，通过商业分析与行业调查，对风险投资，企业运营加深了理解。
 
-Getting started
+获得横跨金融投行/市场营销/人工智能/心理学多领域的证书
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
+1.金融
+摩根大通（J.P.Morgan）投资银行（IBD）工作模拟证书
+美国银行（Bank of America）投资银行（IBD）工作模拟证书
+耶鲁金融市场（Financial Markets）证书
+2.市场营销
+北京大学国际市场营销学证书
+3.人工智能
+阿里达摩院高级人工智能训练师证书
+4.心理学
+英属哥伦比亚大学（UBC）儿童心理学证书
+斯坦福大学（Stanford）疼痛心理学证书
+5.游戏产品
+电子竞技运营师（88分通过理论测试，超过高级认证标准，目前正在等候实操测试）
+   
 Site-wide configuration
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
