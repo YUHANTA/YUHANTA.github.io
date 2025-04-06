@@ -6,7 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-我是一名本科学生，来自于[香港大学](https://www.hku.hk/)，[商学院](https://www.hkubs.hku.hk/sc/)。
+我是一名本科学生，来自于[香港大学](https://www.hku.hk/)[商学院](https://www.hkubs.hku.hk/sc/)[市场分析与科技专业](https://ug.hkubs.hku.hk/programme/bsc-mat)BSc（MAT）并双主修[计算机科学](https://www.cs.hku.hk/)。我主要修习的课程有公司金融（corporate finance），市场分析，计算机编程（python，c++）。
+
+我非常幸运得到了来自于[香港大学商学院](https://www.hkubs.hku.hk/sc/)行为与研究科学研究所所长[Prof.Echo Wen WAN](https://www.hkubs.hku.hk/people/echo-wen-wan/)在学术上的指导。
+
+你可以在这里看到我最新的简历：[喻涵诗洋_简历cv](../assets/喻涵诗洋_简历cv.pdf).
+
+[邮箱](mailto:u3628925@connect.hku.hk)/[Wechat](../image/wechat.jpg)/[小红书](https://www.xiaohongshu.com/user/profile/612c6a940000000001007c85)/[github](github.com/YUHANTA)
 
 A data-driven personal website
 ======
